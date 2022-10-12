@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there, my name is Troy! 
+### I'm a CS student at Columbia, and I just want to get real good at coding.
+### I'm mainly interested in developments in the cloud environment and cybersecurity, but I also have interests in the world of simulations and using graphics to represent real-world problems and the possible solutions to those problems. 
+### I'm currently working on mastering Java and its applications, but afterwards I plan on gaining proficiency in Kotlin, Python, JS, and a few other languages depending on what I'm working on at the time. 
+### Over time, I'll be posting the programs I work on in whether they're derived from personal projects or ideas I gain from problems in my classes at school. Either way, I'm always open to feedback no matter what it may be, so if you see a way I can improve my code, then please let me know! 
 
 <!--
 **troy-c137/troy-c137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
