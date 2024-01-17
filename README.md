@@ -7,6 +7,8 @@
 
 Please send any business-related or open-source collab inquiries to: troywarshaw@proton.me
 
+Check out my website here: troywarshaw.com
+
 <!--
 **troy-c137/troy-c137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
